@@ -1,0 +1,62 @@
+body{
+    background-color: #001e4d;
+}
+
+.sie{
+    
+    width: 90%;
+    max-width: 600px;
+    margin: 100px auto 0;
+   padding: 30px;
+   border-radius: 10px;
+    background-color: #fff;
+}
+.sie h1{
+    font-weight: 25px;
+    border-bottom: 1px solid #333;
+    padding-bottom: 30px;
+}
+.sis{
+    background-color: #fff;
+    color: #222;
+    width: 100%;
+    border: 1px solid #222;
+    padding: 10px;
+    margin: 10px 0;
+    border: 4;
+    text-align: left;
+    cursor: pointer;
+}
+#nxt{
+    margin: 20px 0;
+    width: 150px;
+    color: antiquewhite;
+    background-color: #001e4d;
+    border-radius: 4px;
+    height: 50px;
+    display: block;
+}
+button :hover{
+    background-color: #001e4d;
+    transition: 0.3s;
+}
+.sis :hover{
+    background-color: green;
+    cursor: pointer;
+    color: red;
+}
+.d{
+    margin-top: 50px;
+    margin-left: 400px;
+    background-color: rgb(194, 15, 15);
+    width: 180px;
+    height: 85px;
+    border-radius: 10px;
+    color: #001e4d;
+}
+.d:hover{
+    background-color: #2a6bd3;
+    transition: 0.9s;
+    width: 190px;
+    height: 95px;
+}
